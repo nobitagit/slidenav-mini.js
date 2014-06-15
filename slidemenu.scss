@@ -1,0 +1,23 @@
+
+
+.mini-nav{
+    background: #ccc;
+}
+
+.mininav-closed{
+    max-height: 0 !important;
+}
+
+.list{
+    height: auto;
+    overflow: hidden;
+    -webkit-transition: max-height 2s;
+    -transition: max-height 2s;
+}
+
+@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+
+/* fontawesome */
+[class*="fontawesome-"]:before {
+  font-family: 'FontAwesome', sans-serif;
+}

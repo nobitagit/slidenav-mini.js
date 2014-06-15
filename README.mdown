@@ -1,0 +1,3 @@
+* Slide Nav Mini
+
+Ultra-light, dependency-free slide menu.
